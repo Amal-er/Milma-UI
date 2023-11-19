@@ -1,0 +1,65 @@
+{
+    "items": [
+      {
+        "name": "Chocolate Tub",
+        "weight": "500ml",
+        "price": "$2.99",
+        "image": "src/assets/mask-group2@2x.png"
+      },
+      {
+        "name": "Chocolate Tub",
+        "weight": "500ml",
+        "price": "$3.49",
+        "image": "src/assets/mask-group1@2x.png"
+      },
+      {
+        "name": "Chocolate Tara Tara",
+        "weight": "500ml",
+        "price": "$3.99",
+        "image": "src/assets/chococone.png"
+      }
+    ],
+    "vanilla":[
+        {
+            "name": "Vanilla Tara Tara",
+            "weight": "500ml",
+            "price": "$3.99",
+            "image": "src/assets/chococone.png"
+          },
+          {
+            "name": "Vanilla Tub",
+            "weight": "500ml",
+            "price": "$3.99",
+            "image": "src/assets/plate.png"
+          },
+          {
+            "name": "Vanilla Tub",
+            "weight": "500 ml",
+            "price": "$3.99",
+            "image": "src/assets/vanillacone.png"
+          }
+    ],
+    "pista":[    {
+        "name": "Vanilla Tara Tara",
+        "weight": "500ml",
+        "price": "$3.99",
+        "image": "src/assets/chococone.png"
+      },
+      {
+        "name": "Vanilla Tub",
+        "weight": "500ml",
+        "price": "$3.99",
+        "image": "src/assets/plate.png"
+      },
+      {
+        "name": "Vanilla Tub",
+        "weight": "500ml",
+        "price": "$3.99",
+        "image": "src/assets/vanillacone.png"
+      }
+        
+
+    ]
+
+  }
+  
